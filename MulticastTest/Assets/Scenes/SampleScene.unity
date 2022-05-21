@@ -558,9 +558,9 @@ MonoBehaviour:
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 477161522}
+      - m_Target: {fileID: 477161519}
         m_TargetAssemblyTypeName: WsClient, Assembly-CSharp
-        m_MethodName: Submit
+        m_MethodName: 
         m_Mode: 0
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
